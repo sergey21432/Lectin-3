@@ -10,19 +10,15 @@ Use alternative methods to combine of text highlighting. For example, _italics t
 
 ## Lists
 
-<<<<<<< HEAD
-Use the "*" to highlight a unnumbered list.
-=======
-Use "*" before a text to add unnumbered list. For example:
+Use "*" or "+" before a text to add unnumbered list. For example:
 * Element 1
 * Element 2
-* Element 3
++ Element 3
 
 Use item numbering to add numbered list. For example:
 1. First item
 1. Second item
 1. Third item
->>>>>>> lists
 
 ## Work with images
 
