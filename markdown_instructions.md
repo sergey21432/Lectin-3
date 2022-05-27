@@ -10,6 +10,8 @@ Use alternative methods to combine of text highlighting. For example, _italics t
 
 ## Lists
 
+Use the "*" to highlight a unnumbered list.
+
 ## Work with images
 
 To add images, use the next construction: ![*DESCRIPTION*](***link for image***)
