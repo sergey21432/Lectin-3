@@ -6,11 +6,16 @@ To highlight text in italics, use the selection of "*" or "_". For example, *lik
 
 To make a text bold, use the selection of "**" or "__". For example, **like that** or __like that__.
 
-Use the alternative methods to make combine of text highlighting. For example, _italics text selection and **text bold**_.
+Use alternative methods to combine of text highlighting. For example, _italics text selection and **text bold**_.
 
 ## Lists
 
 ## Work with images
+
+To add images, use the next construction: ![*DESCRIPTION*](***link for image***)
+
+For example:
+ ![Hi, it's Boston](Boston.png)
 
 ## Links
 
