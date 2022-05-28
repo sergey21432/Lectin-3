@@ -29,6 +29,20 @@ For example:
 
 ## Links
 
+To add links use the next construction: [TEXT]]+(link "Text by the link").
+[Text](link "Text by the link").
+
+For easy reading, you can add links to end: use the next construction - [item]+[key].
+empty paragraph
+[key]: link "text by the link"
+
+ For example,
+[that links to lection][1].
+
+[1]: <https://www.youtube.com/watch?v=6n5HgaTCVqU&feature=emb_imp_woyt>
+
+If you want to see the link use the "<" and ">" to highlight link. For example, <sergey21432@yandex.ru>.
+
 ## Work with tables
 
 ## Quotes
