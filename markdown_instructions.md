@@ -1,5 +1,9 @@
 # Instruction for work with the Markdown
 
+## Headings
+
+Use the "#" to add heading. You can add six levels of headings.
+
 ## Text highlighting
 
 To highlight text in italics, use the selection of "*" or "_". For example, *like that* or _like that_.
