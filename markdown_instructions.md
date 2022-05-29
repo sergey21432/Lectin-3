@@ -20,15 +20,19 @@ Use alternative methods to combine of text highlighting. For example, _italics t
 
 ## Lists
 
-Use "*" or "+" before a text to add unnumbered list. For example:
+Use "*" (also "+" or "-") before a text to add unnumbered list. For example:
 * Element 1
 * Element 2
 + Element 3
 
-Use item numbering to add numbered list. For example:
+Use a item numbering to add a numbered list (MD sort by numbering). For example:
 1. First item
 1. Second item
 1. Third item
+
+To create hierarchy for lists, use "TAB" in start.
+
+Use "TAB" to create item out of list, but between list's item.
 
 ## Work with images
 
@@ -39,14 +43,14 @@ For example:
 
 ## Links
 
-To add links use the next construction: [TEXT]]+(link "Text by the link").
-[Text](link "Text by the link").
+To add links use the next construction: `[TEXT]](link "Text by the link")`. For example, [Text](link "Text by the link").
 
-For easy reading, you can add links to end: use the next construction - [item]+[key].
-empty paragraph
-[key]: link "text by the link"
+For easy reading, you can add links to end. Use the next construction:
+`[item][key]`
+empty string
+`[key]: link "text by the link"`
 
- For example,
+For example,
 [that links to lection][1].
 
 [1]: <https://www.youtube.com/watch?v=6n5HgaTCVqU&feature=emb_imp_woyt>
