@@ -51,4 +51,9 @@ Use the ">" to add blockquotes.
 
 If you want add paragraph in blockquotes, add ">" in start of empty string.
 
+If you want create hierarchy of quotes use additional ">". For example,
+> First quote
+>
+>>Second quote
+
 ## Conclusion
