@@ -33,14 +33,14 @@ For example:
 
 ## Links
 
-To add links use the next construction: [TEXT]]+(link "Text by the link").
-[Text](link "Text by the link").
+To add links use the next construction: `[TEXT]](link "Text by the link")`. For example, [Text](link "Text by the link").
 
-For easy reading, you can add links to end: use the next construction - [item]+[key].
-empty paragraph
-[key]: link "text by the link"
+For easy reading, you can add links to end. Use the next construction:
+`[item][key]`
+empty string
+`[key]: link "text by the link"`
 
- For example,
+For example,
 [that links to lection][1].
 
 [1]: <https://www.youtube.com/watch?v=6n5HgaTCVqU&feature=emb_imp_woyt>
