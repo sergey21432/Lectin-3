@@ -77,5 +77,3 @@ If you want create hierarchy of quotes use additional ">". For example,
 > First quote
 >
 >>Second quote
-
-## Conclusion
