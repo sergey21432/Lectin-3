@@ -10,6 +10,14 @@ To add line break use the tag **""br" in <>**.
 For example, 
 like <br> that
 
+Paragraphs
+---------
+
+Add a empty string to create a paragraph. For example,
+"Bye,
+
+See you tomorrow".
+
 ## Text highlighting
 
 To highlight text in italics, use the selection of "*" or "_". For example, *like that* or _like that_.
