@@ -69,4 +69,13 @@ If you want to see the link use the "<" and ">" to highlight link. For example, 
 
 ## Quotes
 
+Use the ">" to add blockquotes. 
+
+If you want add paragraph in blockquotes, add ">" in start of empty string.
+
+If you want create hierarchy of quotes use additional ">". For example,
+> First quote
+>
+>>Second quote
+
 ## Conclusion
