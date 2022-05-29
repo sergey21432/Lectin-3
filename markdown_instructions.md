@@ -1,5 +1,11 @@
 # Instruction for work with the Markdown
 
+## Line breaks
+
+To add line break use the tag **""br" in <>**.
+For example, 
+like <br> that
+
 ## Text highlighting
 
 To highlight text in italics, use the selection of "*" or "_". For example, *like that* or _like that_.
