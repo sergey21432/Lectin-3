@@ -22,7 +22,7 @@ Use a item numbering to add a numbered list (MD sort by numbering). For example:
 
 To create hierarchy for lists, use "TAB" in start.
 
-To create item out of lists but in lists, use "TAB"
+Use "TAB" to create item out of list, but between list's item.
 
 ## Work with images
 
